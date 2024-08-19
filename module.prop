@@ -1,0 +1,6 @@
+id=disable_phantom_process_killing
+name=Disable Phantom Process Killing
+version=0.1
+versionCode=1
+author=Werebug
+description=A Magisk module to disable Phantom Process Killing introduced in Android 12+
